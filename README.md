@@ -4,7 +4,7 @@
  <a href="https://www.jclairelee.com/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=openProject&logoColor=white" alt="claire" />
  </a>
- <a href="https://www.linkedin.com/in/jclairelee2/" target="_blank">
+ <a href="https://www.linkedin.com/in/jclairelee" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="claire"/>
  </a>
  <a href="https://medium.com/@jclaire" target="_blank">
